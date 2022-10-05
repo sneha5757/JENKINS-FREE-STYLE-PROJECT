@@ -1,6 +1,6 @@
 # JENKINS-FREE-STYLE-PROJECT
 
-## Prerequisites -->Jenkins Server ---> Sonarqube server ---->Nexus Repository ---->Apache Tomcat server
+## Servers required for this project : Jenkins Server,  Sonarqube server , Nexus Repository and  Apache Tomcat server
 
 ###### Before starting the project we need to have all the above four servers installed and configured
 
